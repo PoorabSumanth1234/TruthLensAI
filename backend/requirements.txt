@@ -164,7 +164,6 @@ nbclient==0.10.4
 nbconvert==7.17.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
--e git+https://github.com/PoorabSumanth1234/network_security.git@470ab40bb3dd59cabf5d0ccf926661ca918dd13e#egg=NetworkSecurity
 networkx==3.4.2
 newsapi-python==0.2.7
 notebook==7.5.5
