@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+transformers
+torch
+scikit-learn
+vaderSentiment
+pandas
+numpy
+nltk
+python-multipart
+requests
+beautifulsoup4
+python-dotenv
